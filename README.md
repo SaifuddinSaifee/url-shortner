@@ -1,0 +1,1 @@
+URL shortner is a URL shortening tool built using Go Lang and Go Fibre that condenses long web addresses into shorter, more manageable links.
